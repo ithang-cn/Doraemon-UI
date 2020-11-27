@@ -1,0 +1,26 @@
+{
+  "name": "doraemon-ui",
+  "version": "0.0.2",
+  "description": "Doraemon-UI /'dɔ:ra:'emɔn/，简称DoUI，中文名 哆啦A梦UI，意味着能够像哆啦A梦一样提供各种各样的UI组件及工具。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cosytime/Doraemon-UI.git"
+  },
+  "keywords": [
+    "Doraemon-UI",
+    "Doraemon",
+    "UI",
+    "cosytime",
+    "CosyTime"
+  ],
+  "author": "CosyTime <2021652599@qq.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/cosytime/Doraemon-UI/issues"
+  },
+  "homepage": "https://github.com/cosytime/Doraemon-UI#readme"
+}
